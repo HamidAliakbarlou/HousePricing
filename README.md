@@ -72,13 +72,4 @@ Best for interpretable and sparse solutions.
 | Simplicity | **Ridge** or **Random Forest** |
 | Feature Reduction | **Lasso** |
 
----
 
-## 📁 How to Use
-1. Clone the repo
-2. Open the notebook file in Jupyter/Colab
-3. Run each cell in order to train and evaluate models
-
----
-
-> Built with 💡 by exploring ensemble and regression techniques.
